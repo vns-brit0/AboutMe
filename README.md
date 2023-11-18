@@ -4,7 +4,8 @@ Olá!👋 Bem-vindo ao meu GitHub!
 
 Eu sou o Vinicius. Atualmente estou em transição de carreira para Cloud, onde venho aperfeiçoando minhas softs skills em Cloud AWS, Azure, estudando mais Terraform IAC (Infrastructure as Code) e linguagem de Programação Phyton. Possuo cerca de 5 anos de experiência na área de Infraestrutura. Me considero um entusiasta na área de Tecnologia, principalmente quando o assunto é Cloud Computing.
 
-Estou interessado em adquirir novas experiências, agregar mais valor com o meu trabalho nessa linda jornada rumo as Nuvens ☁️.
+Estou interessado em adquirir novas experiências, agregar mais valor com o meu trabalho nessa linda jornada rumo as Nuvens ☁️
+
 (Cloud/AWS/Azure/DevOps/IAC)
 
 ## Experiências
@@ -31,7 +32,7 @@ Estou interessado em adquirir novas experiências, agregar mais valor com o meu 
 
 Cloud Provider favorita: Amazon Web Services (AWS) 😍
 
-Outras habilidades: 📚 Livros (literatura) e 🏃 Praticar esportes.
+Outras habilidades: 📚 Livros (Literatura) e 🏃 Praticar esportes.
 
 ### Como Entrar em Contato:
 
