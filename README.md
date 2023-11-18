@@ -30,6 +30,7 @@ Estou interessado em adquirir novas experiências, agregar mais valor com o meu 
 </p>
 
 Cloud Provider favorita: Amazon Web Services (AWS) 😍
+
 Outras habilidades: 📚 Livros (literatura) e 🏃 Praticar esportes.
 
 ### Como Entrar em Contato:
