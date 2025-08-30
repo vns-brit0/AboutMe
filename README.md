@@ -2,14 +2,14 @@
 
 Olá!👋 Bem-vindo ao meu GitHub! 
 
-Eu sou o Vinicius. Atualmente estou em transição de carreira para Cloud, onde venho aperfeiçoando minhas softs skills em Cloud AWS, Azure, estudando mais Terraform IAC (Infrastructure as Code) e linguagem de Programação Phyton. Possuo cerca de 5 anos de experiência na área de Infraestrutura. Me considero um entusiasta na área de Tecnologia, principalmente quando o assunto é Cloud Computing.
+Eu sou o Vinicius. Atualmente estou atuando com Infraestrutura de TI e em paralelo descobrindo o mundo de Cloud, venho aperfeiçoando minhas softs skills em Cloud AWS, Azure, estudando Terraform IAC (Infrastructure as Code). Possuo cerca de 7 anos de experiência na área de Infraestrutura. Me considero um entusiasta na área de Tecnologia, principalmente quando o assunto é Cloud Computing.
 
 Estou interessado em adquirir novas experiências, agregar mais valor com o meu trabalho nessa linda jornada rumo as Nuvens ☁️
 
 (Cloud/AWS/Azure/DevOps/IAC)
 
 ## Experiências
-- Analista de Suporte - Em transição de carreira para DevOps.
+- Analista de Infraestrutura - Em transição de carreira para DevOps.
 - Mentor Técnico Voluntário na Escola da Nuvem - Para turmas de Cloud AWS Practitioner.
 
 ### Certificações
