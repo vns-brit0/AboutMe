@@ -2,7 +2,7 @@
 
 Olá!👋 Bem-vindo ao meu GitHub! 
 
-Eu sou o Vinicius. Atualmente estou atuando com Infraestrutura de TI e em paralelo descobrindo o mundo de Cloud, venho aperfeiçoando minhas softs skills em Cloud AWS, Azure, estudando Terraform IAC (Infrastructure as Code). Possuo cerca de 7 anos de experiência na área de Infraestrutura. Me considero um entusiasta na área de Tecnologia, principalmente quando o assunto é Cloud Computing.
+Eu sou o Vinicius. Atualmente estou atuando como Analista de Infraestrutura de TI em paralelo descobrindo o mundo de Cloud, venho aperfeiçoando minhas softs skills em Cloud AWS, Azure, estudando Terraform IAC (Infrastructure as Code). Possuo cerca de 7 anos de experiência na área de Infraestrutura. Me considero um entusiasta na área de Tecnologia, principalmente quando o assunto é Cloud Computing.
 
 Estou interessado em adquirir novas experiências, agregar mais valor com o meu trabalho nessa linda jornada rumo as Nuvens ☁️
 
